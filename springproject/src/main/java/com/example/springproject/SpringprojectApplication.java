@@ -5,10 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringprojectApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringprojectApplication.class, args);
-		System.out.println("\n *** Spring Boot Project started **\n");
+		System.out.println("\n *** Spring Boot Project started **\n");	
 	}
 
 }
